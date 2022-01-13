@@ -12,7 +12,7 @@ import insaneAA
 core = vs.core
 core.max_cache_size = 20000
 
-src = core.lsmas.LWLibavSource(r"F:\Encode\Mars Red\_src\01.m2ts")#[168:]
+src = core.lsmas.LWLibavSource(r"F:\Encode\Ranpo Kitan\_src\07.m2ts")#[168:]
 ```
 
 Es por eso que hemos preparado esta [guía](sepso.md) frutifantástica.
