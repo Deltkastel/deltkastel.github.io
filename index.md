@@ -16,5 +16,5 @@ core.max_cache_size = 20000
 src = core.lsmas.LWLibavSource(r"F:\Encode\Ranpo Kitan\_src\07.m2ts")#[168:]
 ```
 
-Es por eso que hemos preparado esta [guía](sepso.md) frutifantástica.
+Es por eso que hemos preparado estaaaaa [guía](sepso.md) frutifantástica.
 En fin, todes putes.
