@@ -5,4 +5,4 @@ no me acaricien el tete, ando cashondo XD
 seria.-///]]]"[d]"
 ```
 
-{[bolber](index.md)} {[no bolber](asdsagsd.md)}
+{[bolber](index.md)} {[no bolberya](asdsagsd.md)}
